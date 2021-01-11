@@ -6,4 +6,4 @@ My first "real" program ever, made as a course project for the university course
 
 Only available in Finnish, I'm afraid.
 
-
+![Screenshot](ss.PNG)
